@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-[![Catkane-doodles's GitHub stats](https://github-readme-stats.vercel.app/api?username=catkane-doodles&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Peikai's GitHub stats](https://github-readme-stats.vercel.app/api?username=peikai-tan&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 - 🎓 I’m a self taught full-stack developer
 - 🔭 I’m currently working on "discord", a mobile game.
 
 <!--
-**catkane-doodles/catkane-doodles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**peikai-tan/peikai-tan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
